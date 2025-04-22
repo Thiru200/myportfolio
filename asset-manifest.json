@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.b7d454c9.css",
-    "main.js": "/myportfolio/static/js/main.4b447817.js",
+    "main.css": "/myportfolio/static/css/main.e0897603.css",
+    "main.js": "/myportfolio/static/js/main.3529d88d.js",
     "static/media/img2.png": "/myportfolio/static/media/img2.140e843a03bbedec6547.png",
     "static/media/img3.png": "/myportfolio/static/media/img3.c60ea6feffb480f499d4.png",
     "static/media/Thakshila-Bandara_CV.pdf": "/myportfolio/static/media/Thakshila-Bandara_CV.5f4315884153e8bbcbf9.pdf",
@@ -9,11 +9,11 @@
     "static/media/img5.jpg": "/myportfolio/static/media/img5.305359fd5bd1a6a77eac.jpg",
     "static/media/Karthi_Profile.jpeg": "/myportfolio/static/media/Karthi_Profile.649cae0c56918ffb4eb1.jpeg",
     "index.html": "/myportfolio/index.html",
-    "main.b7d454c9.css.map": "/myportfolio/static/css/main.b7d454c9.css.map",
-    "main.4b447817.js.map": "/myportfolio/static/js/main.4b447817.js.map"
+    "main.e0897603.css.map": "/myportfolio/static/css/main.e0897603.css.map",
+    "main.3529d88d.js.map": "/myportfolio/static/js/main.3529d88d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7d454c9.css",
-    "static/js/main.4b447817.js"
+    "static/css/main.e0897603.css",
+    "static/js/main.3529d88d.js"
   ]
 }
